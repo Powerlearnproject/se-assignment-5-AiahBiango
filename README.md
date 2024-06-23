@@ -439,6 +439,4 @@ Let’s walk through the process of initializing a Git repository, making commit
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
-Screenshot
-
-![alt text](Python-logo-notext.svg.png)
+ 
